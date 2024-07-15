@@ -1,0 +1,39 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Smartphone",
+            "descricao": "Smartphone de última geração",
+            "preco": 1500.00,
+            "imagem": "Smartphone.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Laptop",
+            "descricao": "Laptop com alto desempenho",
+            "preco": 3500.00,
+            "imagem": "Laptop.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Fone de Ouvido",
+            "descricao": "Fone de ouvido com cancelamento de ruído",
+            "preco": 300.00,
+            "imagem": "FoneDeOuvido.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Smartwatch",
+            "descricao": "Relógio inteligente com monitoramento de saúde",
+            "preco": 800.00,
+            "imagem": "Smartwatch.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Tablet",
+            "descricao": "Tablet com tela de alta resolução",
+            "preco": 1200.00,
+            "imagem": "Tablet.jpg"
+        }
+    ]
+}
